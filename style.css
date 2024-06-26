@@ -36,3 +36,7 @@ img {
 #golf-ball {
   margin-bottom: 16px;
 }
+
+input {
+  width: 30%;
+}
