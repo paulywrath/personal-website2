@@ -20,6 +20,19 @@ nav > a {
   font-size: x-large;
 }
 
+main {
+  margin: 0 2vw 0 2vw;
+ } 
+
 img {
   max-height: 30vh;
+}
+
+.section-block {
+  margin: 2vw;
+  border-bottom: solid 4px darkgray;
+}
+
+#golf-ball {
+  margin-bottom: 16px;
 }
