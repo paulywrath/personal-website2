@@ -33,6 +33,10 @@ img {
   border-bottom: solid 4px darkgray;
 }
 
+.section-block:last-child {
+  border-bottom: none;
+}
+
 #golf-ball {
   margin-bottom: 16px;
 }
